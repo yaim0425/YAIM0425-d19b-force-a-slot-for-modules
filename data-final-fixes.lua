@@ -178,6 +178,7 @@ function This_MOD.update_entity(space)
 
     space.entity.allowed_effects = This_MOD.effects
     space.entity.module_slots = This_MOD.setting.amount
+    space.entity.effect_receiver = nil
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
