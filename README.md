@@ -1,10 +1,12 @@
 # YAIM904 d19b – Force a Slot for Modules 🧩⚙️
 
+---
+
 ## 📦 Description
 
 **YAIM904 d19b – Force a Slot for Modules** adds **module slots to selected machines that normally do not support modules**.
 
-This MOD enables the use of productivity, speed, or efficiency modules in drills, furnaces, and other manufacturing entities that are usually restricted in vanilla Factorio.
+This MOD enables the use of productivity, speed, or efficiency modules in drills, furnaces and other manufacturing entities that are usually restricted in vanilla Factorio.
 
 Its purpose is to expand customization and optimization options across the entire production chain.
 
@@ -45,7 +47,7 @@ All other mechanics of the machines remain unchanged.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
